@@ -1,6 +1,6 @@
 # multiple-page
 
-> 基于Vue的多页面脚手架
+> 基于Vue的多页面脚手架，适用于访问量较大、并且对seo需求较高的项目
 
 ## Build Setup
 
