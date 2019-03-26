@@ -7,7 +7,12 @@
 
 <script>
 export default {
-  name: 'App'
+  name: 'App',
+  mounted(){
+    setTimeout(_=>{
+      this.$router.push('other')
+    },1000)
+  }
 }
 </script>
 

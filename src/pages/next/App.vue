@@ -1,7 +1,8 @@
 <template>
-  <div>
+  <div id="app">
     {{bzk}}
-    <test/>
+    <router-view/>
+    <!--<test/>-->
   </div>
 </template>
 
